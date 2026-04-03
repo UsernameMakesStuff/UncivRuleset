@@ -1,0 +1,43 @@
+[
+	{
+		"columnNumber": 0,
+		"era": "Prehistory",
+		"techCost": 20,
+		"buildingCost": 40,
+		"wonderCost": 185,
+		"techs": [
+			{
+				"name": "Agriculture",
+				"row": 6,
+				"quote": "'Agriculture not only gives riches to a nation, but the only riches she can call her own.' -Samuel Johnson",
+				"uniques": ["Starting tech"]
+			}
+		]
+	},
+  {
+		"columnNumber": 1,
+		"era": "Prehistory",
+		"techCost": 30,
+		"buildingCost": 60,
+		"wonderCost": 185,
+		"techs": [
+			{
+				"name": "Burial",
+				"row": 2,
+        "prerequisites": ["Agriculture"],
+				"quote": "'Let me not then die ingloriously and without a struggle, but let me first do some great thing that shall be told among men hereafter.' -Homer, The Iliad"
+      {
+				"name": "Trapping",
+				"row": 6,
+        "prerequisites": ["Agriculture"],
+				"quote": "'Even brute beasts and wandering birds do not fall into the same trap twice.' - Saint Jerome"
+			},
+      {
+				"name": "Pottery",
+				"row": 10,
+        "prerequisites": ["Agriculture"],
+				"quote": "'Shall the clay say to him that fashioneth it, what makest thou?' - Bible Isaiah 45:9"
+			}
+		]
+	}
+]
