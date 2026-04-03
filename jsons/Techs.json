@@ -26,7 +26,8 @@
 				"row": 2,
         "prerequisites": ["Agriculture"],
 				"quote": "'Let me not then die ingloriously and without a struggle, but let me first do some great thing that shall be told among men hereafter.' -Homer, The Iliad"
-      {
+			},
+			{
 				"name": "Trapping",
 				"row": 6,
         "prerequisites": ["Agriculture"],
