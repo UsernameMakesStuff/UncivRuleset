@@ -1,11 +1,11 @@
 [
     {
-        "name": "Tier 0 Era",
+        "name": "Prehistory",
         "researchAgreementCost": 150,
         "startingSettlerCount": 1, 
         "startingWorkerCount": 0,
         "startingMilitaryUnitCount": 1,
-        "startingMilitaryUnit": "Rifleman",
+        "startingMilitaryUnit": "Hunter",
         "settlerPopulation": 1,
         "baseUnitBuyCost": 200,
         "embarkDefense": 3,
