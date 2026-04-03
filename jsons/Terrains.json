@@ -6,5 +6,28 @@
 		"movementCost": 1,
         "RGB": [0, 163, 0],
         "uniques": []
+    },
+	{
+		"name": "Desert",
+		"type": "Land",
+		"movementCost": 1,
+        "RGB": [0, 163, 0],
+        "uniques": []
+    },
+	{
+		"name": "Marsh",
+		"type": "Land",
+		"food": 3,
+		"movementCost": 3,
+        "RGB": [0, 163, 0],
+        "uniques": []
+    },
+	{
+		"name": "Coast",
+		"type": "Water",
+		"food": 1,
+		"movementCost": 1,
+        "RGB": [0, 163, 0],
+        "uniques": []
     }
 ]
