@@ -3,16 +3,32 @@
         "name": "Settler",
         "unitType": "Civilian",
         "movement": 2,
+		"cost": 60,
         "uniques": ["Founds a new city <by consuming this unit>","Requires at least [2] population"]
     },
+	{
+		"name": "Laborer",
+		"unitType": "Civilian",
+		"movement": 2,
+		"uniques": ["Can build [Land] improvements on tiles", "Automation is a primary action"],
+		"cost": 70
+	},
+	{
+		"name": "Hunter",
+		"unitType": "Infantry",
+		"movement": 2,
+		"strength": 8,
+		"cost": 40,
+		"attackSound": "nonmetalhit"
+	},
     {
 		"name": "Rifleman",
 		"unitType": "Infantry",
 		"movement": 2,
-		"strength": 5,
+		"strength": 20,
         "range": 2,
-		"rangedStrength": 7,
-		"cost": 40,
+		"rangedStrength": 30,
+		"cost": 400,
 		"attackSound": "shot"
 	}
 ]
