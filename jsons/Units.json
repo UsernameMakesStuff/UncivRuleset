@@ -21,6 +21,16 @@
 		"cost": 40,
 		"attackSound": "nonmetalhit"
 	},
+	{
+		"name": "Slinger",
+		"unitType": "Infantry",
+		"movement": 2,
+		"strength": 5,
+		"rangedStrength": 7,
+		"cost": 40,
+		"requiredTech": "Trapping",
+		"attackSound": "nonmetalhit"
+	},
     {
 		"name": "Rifleman",
 		"unitType": "Infantry",
